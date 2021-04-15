@@ -1,0 +1,38 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [USB to UART.PrjPcb]
+   Generated File[USB to UART_Copper_Signal_Top.gbr]
+   Generated File[USB to UART_Copper_Signal_Bot.gbr]
+   Generated File[USB to UART_Pads_Bot.gbr]
+   Generated File[USB to UART_Pads_Top.gbr]
+   Generated File[USB to UART_Legend_Bot.gbr]
+   Generated File[USB to UART_Soldermask_Bot.gbr]
+   Generated File[USB to UART_Paste_Bot.gbr]
+   Generated File[USB to UART_Legend_Top.gbr]
+   Generated File[USB to UART_Paste_Top.gbr]
+   Generated File[USB to UART_Soldermask_Top.gbr]
+   Generated File[USB to UART_Keep-out.gbr]
+   Generated File[USB to UART_Mechanical_25.gbr]
+   Generated File[USB to UART_Mechanical_13.gbr]
+   Generated File[USB to UART_Mechanical_24.gbr]
+   Generated File[USB to UART_Mechanical_21.gbr]
+   Generated File[USB to UART_Mechanical_20.gbr]
+   Generated File[USB to UART_Mechanical_5.gbr]
+   Generated File[USB to UART_Mechanical_16.gbr]
+   Generated File[USB to UART_Mechanical_1.gbr]
+   Generated File[USB to UART_Mechanical_23.gbr]
+   Generated File[USB to UART_Mechanical_15.gbr]
+   Generated File[USB to UART_Profile.gbr]
+   Generated File[USB to UART_NPTH_Drill.gbr]
+   Generated File[USB to UART_PTH_Drill.gbr]
+   Generated File[USB to UART_Drawing_1.gbr]
+   Generated File[USB to UART_Drillmap_1.gbr]
+   Generated File[USB to UART.RUL]
+   Generated File[USB to UART.EXTREP]
+   Generated File[USB to UART.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 1:11:50 PM On 4/15/2021
