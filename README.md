@@ -74,5 +74,5 @@ For more advanced users, I've left the original design so you can change anythin
 <b>
 How can you find me?
 </b><br>
-I've left my Instagram on this GitHub just in case you needed to contact me for any reason...
+I will leave my Instagram on this GitHub just in case you needed to contact me for any reason... Instagram @ skopusdotorg
 <br><br>
